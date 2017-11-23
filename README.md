@@ -10,6 +10,14 @@ source : 171106-test.csv
 
 ---  
 
+**img-Resize-sips**  
+
+$ bash Hello.sh  
+
+resize sips  
+
+---  
+
 **Make_html_PDF_To_Cheak_Photo**  
 
 卒制展 web 、アーカイブ用の写真を集めてから、公開前に一覧にして全体に確認必要。  
