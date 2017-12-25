@@ -9,4 +9,4 @@ with open("171222-CSV.csv", newline ="") as f:
     ## header = next(DataReader) # header を読み飛ばしたい時
 
     for row in DataReader:
-        print(row) # 1行ずつ取得
+        print(row) # 1行ずつ全て取得
