@@ -10,6 +10,23 @@ source : 171106-test.csv
 
 ---  
 
+**CSV-Reader-Writer**
+python + Pandas
+
+src : 171222-CSV.csv  
+
+- read-Pandas.py :  指定したセルで読み出し  
+- read-all.py : 全て読み込み  
+- read.py : 仮実行ファイル  
+
+- write-basic.py : 書き込みテスト  
+- write-from-csv.py :　csv から指定したセルの読み出しから、ファイルに書き込み  
+- write.py : 仮実行ファイル  
+
+
+
+---  
+
 **img-Resize-sips**  
 
 $ bash Hello.sh  
